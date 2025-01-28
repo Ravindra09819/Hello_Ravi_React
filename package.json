@@ -1,0 +1,23 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is react project.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "ravindra",
+    "react",
+    "frontend"
+  ],
+  "author": "Ravindra Kambale",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
